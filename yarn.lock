@@ -1422,7 +1422,6 @@
 
 "@elastic/apm-synthtrace@link:bazel-bin/packages/elastic-apm-synthtrace":
   version "0.0.0"
-  uid ""
 
 "@elastic/app-search-javascript@^7.13.1":
   version "7.13.1"
@@ -1458,7 +1457,6 @@
 
 "@elastic/datemath@link:bazel-bin/packages/elastic-datemath":
   version "0.0.0"
-  uid ""
 
 "@elastic/ecs-helpers@^1.1.0":
   version "1.1.0"
@@ -1498,7 +1496,6 @@
 
 "@elastic/eslint-config-kibana@link:bazel-bin/packages/elastic-eslint-config-kibana":
   version "0.0.0"
-  uid ""
 
 "@elastic/eslint-plugin-eui@0.0.2":
   version "0.0.2"
@@ -1623,7 +1620,6 @@
 
 "@elastic/safer-lodash-set@link:bazel-bin/packages/elastic-safer-lodash-set":
   version "0.0.0"
-  uid ""
 
 "@elastic/search-ui-app-search-connector@^1.6.0":
   version "1.6.0"
@@ -2872,263 +2868,198 @@
 
 "@kbn/ace@link:bazel-bin/packages/kbn-ace":
   version "0.0.0"
-  uid ""
 
 "@kbn/alerts@link:bazel-bin/packages/kbn-alerts":
   version "0.0.0"
-  uid ""
 
 "@kbn/analytics@link:bazel-bin/packages/kbn-analytics":
   version "0.0.0"
-  uid ""
 
 "@kbn/apm-config-loader@link:bazel-bin/packages/kbn-apm-config-loader":
   version "0.0.0"
-  uid ""
 
 "@kbn/apm-utils@link:bazel-bin/packages/kbn-apm-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/babel-code-parser@link:bazel-bin/packages/kbn-babel-code-parser":
   version "0.0.0"
-  uid ""
 
 "@kbn/babel-preset@link:bazel-bin/packages/kbn-babel-preset":
   version "0.0.0"
-  uid ""
 
 "@kbn/cli-dev-mode@link:bazel-bin/packages/kbn-cli-dev-mode":
   version "0.0.0"
-  uid ""
 
 "@kbn/config-schema@link:bazel-bin/packages/kbn-config-schema":
   version "0.0.0"
-  uid ""
 
 "@kbn/config@link:bazel-bin/packages/kbn-config":
   version "0.0.0"
-  uid ""
 
 "@kbn/crypto@link:bazel-bin/packages/kbn-crypto":
   version "0.0.0"
-  uid ""
 
 "@kbn/dev-utils@link:bazel-bin/packages/kbn-dev-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/docs-utils@link:bazel-bin/packages/kbn-docs-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/es-archiver@link:bazel-bin/packages/kbn-es-archiver":
   version "0.0.0"
-  uid ""
 
 "@kbn/es-query@link:bazel-bin/packages/kbn-es-query":
   version "0.0.0"
-  uid ""
 
 "@kbn/es@link:bazel-bin/packages/kbn-es":
   version "0.0.0"
-  uid ""
 
 "@kbn/eslint-import-resolver-kibana@link:bazel-bin/packages/kbn-eslint-import-resolver-kibana":
   version "0.0.0"
-  uid ""
 
 "@kbn/eslint-plugin-eslint@link:bazel-bin/packages/kbn-eslint-plugin-eslint":
   version "0.0.0"
-  uid ""
 
 "@kbn/expect@link:bazel-bin/packages/kbn-expect":
   version "0.0.0"
-  uid ""
 
 "@kbn/field-types@link:bazel-bin/packages/kbn-field-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/flot-charts@link:bazel-bin/packages/kbn-flot-charts":
   version "0.0.0"
-  uid ""
 
 "@kbn/i18n-react@link:bazel-bin/packages/kbn-i18n-react":
   version "0.0.0"
-  uid ""
 
 "@kbn/i18n@link:bazel-bin/packages/kbn-i18n":
   version "0.0.0"
-  uid ""
 
 "@kbn/interpreter@link:bazel-bin/packages/kbn-interpreter":
   version "0.0.0"
-  uid ""
 
 "@kbn/io-ts-utils@link:bazel-bin/packages/kbn-io-ts-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/logging@link:bazel-bin/packages/kbn-logging":
   version "0.0.0"
-  uid ""
 
 "@kbn/mapbox-gl@link:bazel-bin/packages/kbn-mapbox-gl":
   version "0.0.0"
-  uid ""
 
 "@kbn/monaco@link:bazel-bin/packages/kbn-monaco":
   version "0.0.0"
-  uid ""
 
 "@kbn/optimizer@link:bazel-bin/packages/kbn-optimizer":
   version "0.0.0"
-  uid ""
 
 "@kbn/plugin-generator@link:bazel-bin/packages/kbn-plugin-generator":
   version "0.0.0"
-  uid ""
 
 "@kbn/plugin-helpers@link:bazel-bin/packages/kbn-plugin-helpers":
   version "0.0.0"
-  uid ""
 
 "@kbn/pm@link:packages/kbn-pm":
   version "0.0.0"
-  uid ""
 
 "@kbn/react-field@link:bazel-bin/packages/kbn-react-field":
   version "0.0.0"
-  uid ""
 
 "@kbn/rule-data-utils@link:bazel-bin/packages/kbn-rule-data-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-autocomplete@link:bazel-bin/packages/kbn-securitysolution-autocomplete":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-es-utils@link:bazel-bin/packages/kbn-securitysolution-es-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-hook-utils@link:bazel-bin/packages/kbn-securitysolution-hook-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-alerting-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-alerting-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-list-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-list-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-io-ts-utils@link:bazel-bin/packages/kbn-securitysolution-io-ts-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-api@link:bazel-bin/packages/kbn-securitysolution-list-api":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-constants@link:bazel-bin/packages/kbn-securitysolution-list-constants":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-hooks@link:bazel-bin/packages/kbn-securitysolution-list-hooks":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-list-utils@link:bazel-bin/packages/kbn-securitysolution-list-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-rules@link:bazel-bin/packages/kbn-securitysolution-rules":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-t-grid@link:bazel-bin/packages/kbn-securitysolution-t-grid":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-utils@link:bazel-bin/packages/kbn-securitysolution-utils":
   version "0.0.0"
-  uid ""
 
 "@kbn/server-http-tools@link:bazel-bin/packages/kbn-server-http-tools":
   version "0.0.0"
-  uid ""
 
 "@kbn/server-route-repository@link:bazel-bin/packages/kbn-server-route-repository":
   version "0.0.0"
-  uid ""
 
 "@kbn/spec-to-console@link:bazel-bin/packages/kbn-spec-to-console":
   version "0.0.0"
-  uid ""
 
 "@kbn/std@link:bazel-bin/packages/kbn-std":
   version "0.0.0"
-  uid ""
 
 "@kbn/storybook@link:bazel-bin/packages/kbn-storybook":
   version "0.0.0"
-  uid ""
 
 "@kbn/telemetry-tools@link:bazel-bin/packages/kbn-telemetry-tools":
   version "0.0.0"
-  uid ""
 
 "@kbn/test-subj-selector@link:bazel-bin/packages/kbn-test-subj-selector":
   version "0.0.0"
-  uid ""
 
 "@kbn/test@link:bazel-bin/packages/kbn-test":
   version "0.0.0"
-  uid ""
 
 "@kbn/timelion-grammar@link:bazel-bin/packages/kbn-timelion-grammar":
   version "0.0.0"
-  uid ""
 
 "@kbn/tinymath@link:bazel-bin/packages/kbn-tinymath":
   version "0.0.0"
-  uid ""
 
 "@kbn/typed-react-router-config@link:bazel-bin/packages/kbn-typed-react-router-config":
   version "0.0.0"
-  uid ""
 
 "@kbn/ui-framework@link:bazel-bin/packages/kbn-ui-framework":
   version "0.0.0"
-  uid ""
 
 "@kbn/ui-shared-deps-npm@link:bazel-bin/packages/kbn-ui-shared-deps-npm":
   version "0.0.0"
-  uid ""
 
 "@kbn/ui-shared-deps-src@link:bazel-bin/packages/kbn-ui-shared-deps-src":
   version "0.0.0"
-  uid ""
 
 "@kbn/ui-theme@link:bazel-bin/packages/kbn-ui-theme":
   version "0.0.0"
-  uid ""
 
 "@kbn/utility-types@link:bazel-bin/packages/kbn-utility-types":
   version "0.0.0"
-  uid ""
 
 "@kbn/utils@link:bazel-bin/packages/kbn-utils":
   version "0.0.0"
-  uid ""
 
 "@loaders.gl/core@2.3.1", "@loaders.gl/core@^2.3.1":
   version "2.3.1"
@@ -5393,11 +5324,9 @@
 
 "@types/elastic__apm-synthtrace@link:bazel-bin/packages/elastic-apm-synthtrace/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/elastic__datemath@link:bazel-bin/packages/elastic-datemath/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/enzyme@^3.10.8":
   version "3.10.8"
@@ -5798,195 +5727,147 @@
 
 "@types/kbn__ace@link:bazel-bin/packages/kbn-ace/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__alerts@link:bazel-bin/packages/kbn-alerts/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__analytics@link:bazel-bin/packages/kbn-analytics/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__apm-config-loader@link:bazel-bin/packages/kbn-apm-config-loader/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__apm-utils@link:bazel-bin/packages/kbn-apm-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__cli-dev-mode@link:bazel-bin/packages/kbn-cli-dev-mode/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__config-schema@link:bazel-bin/packages/kbn-config-schema/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__config@link:bazel-bin/packages/kbn-config/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__crypto@link:bazel-bin/packages/kbn-crypto/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__dev-utils@link:bazel-bin/packages/kbn-dev-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__docs-utils@link:bazel-bin/packages/kbn-docs-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__es-archiver@link:bazel-bin/packages/kbn-es-archiver/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__es-query@link:bazel-bin/packages/kbn-es-query/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__field-types@link:bazel-bin/packages/kbn-field-types/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__i18n-react@link:bazel-bin/packages/kbn-i18n-react/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__i18n@link:bazel-bin/packages/kbn-i18n/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__interpreter@link:bazel-bin/packages/kbn-interpreter/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__io-ts-utils@link:bazel-bin/packages/kbn-io-ts-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__mapbox-gl@link:bazel-bin/packages/kbn-mapbox-gl/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__monaco@link:bazel-bin/packages/kbn-monaco/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__optimizer@link:bazel-bin/packages/kbn-optimizer/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__plugin-generator@link:bazel-bin/packages/kbn-plugin-generator/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__plugin-helpers@link:bazel-bin/packages/kbn-plugin-helpers/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__react-field@link:bazel-bin/packages/kbn-react-field/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__rule-data-utils@link:bazel-bin/packages/kbn-rule-data-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-autocomplete@link:bazel-bin/packages/kbn-securitysolution-autocomplete/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-es-utils@link:bazel-bin/packages/kbn-securitysolution-es-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-hook-utils@link:bazel-bin/packages/kbn-securitysolution-hook-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-io-ts-alerting-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-alerting-types/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-io-ts-list-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-list-types/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-io-ts-types@link:bazel-bin/packages/kbn-securitysolution-io-ts-types/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-io-ts-utils@link:bazel-bin/packages/kbn-securitysolution-io-ts-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-list-api@link:bazel-bin/packages/kbn-securitysolution-list-api/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-list-constants@link:bazel-bin/packages/kbn-securitysolution-list-constants/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-list-hooks@link:bazel-bin/packages/kbn-securitysolution-list-hooks/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-list-utils@link:bazel-bin/packages/kbn-securitysolution-list-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-rules@link:bazel-bin/packages/kbn-securitysolution-rules/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-t-grid@link:bazel-bin/packages/kbn-securitysolution-t-grid/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__securitysolution-utils@link:bazel-bin/packages/kbn-securitysolution-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__server-http-tools@link:bazel-bin/packages/kbn-server-http-tools/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__server-route-repository@link:bazel-bin/packages/kbn-server-route-repository/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__std@link:bazel-bin/packages/kbn-std/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__telemetry-tools@link:bazel-bin/packages/kbn-telemetry-tools/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__ui-shared-deps-npm@link:bazel-bin/packages/kbn-ui-shared-deps-npm/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__ui-shared-deps-src@link:bazel-bin/packages/kbn-ui-shared-deps-src/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__ui-theme@link:bazel-bin/packages/kbn-ui-theme/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__utility-types@link:bazel-bin/packages/kbn-utility-types/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/kbn__utils@link:bazel-bin/packages/kbn-utils/npm_module_types":
   version "0.0.0"
-  uid ""
 
 "@types/keyv@*":
   version "3.1.1"
@@ -20429,10 +20310,17 @@ node-emoji@^1.10.0:
   dependencies:
     lodash.toarray "^4.4.0"
 
-node-fetch@2.6.1, node-fetch@^1.0.1, node-fetch@^2.3.0, node-fetch@^2.6.1:
+node-fetch@2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
   integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
+
+node-fetch@^1.0.1, node-fetch@^2.3.0, node-fetch@^2.6.1, node-fetch@^2.6.7:
+  version "2.6.7"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.7.tgz#24de9fba827e3b4ae44dc8b20256a379160052ad"
+  integrity sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==
+  dependencies:
+    whatwg-url "^5.0.0"
 
 node-forge@^0.10.0, node-forge@^1.2.1:
   version "1.2.1"
@@ -27588,6 +27476,11 @@ tr46@^2.0.2:
   dependencies:
     punycode "^2.1.1"
 
+tr46@~0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/tr46/-/tr46-0.0.3.tgz#8184fd347dac9cdc185992f3a6622e14b9d9ab6a"
+  integrity sha1-gYT9NH2snNwYWZLzpmIuFLnZq2o=
+
 traceparent@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/traceparent/-/traceparent-1.0.0.tgz#9b14445cdfe5c19f023f1c04d249c3d8e003a5ce"
@@ -29344,6 +29237,11 @@ web-streams-polyfill@^3.0.0:
   resolved "https://registry.yarnpkg.com/web-streams-polyfill/-/web-streams-polyfill-3.0.1.tgz#1f836eea307e8f4af15758ee473c7af755eb879e"
   integrity sha512-M+EmTdszMWINywOZaqpZ6VIEDUmNpRaTOuizF0ZKPjSDC8paMRe/jBBwFv0Yeyn5WYnM5pMqMQa82vpaE+IJRw==
 
+webidl-conversions@^3.0.0:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-3.0.1.tgz#24534275e2a7bc6be7bc86611cc16ae0a5654871"
+  integrity sha1-JFNCdeKnvGvnvIZhHMFq4KVlSHE=
+
 webidl-conversions@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-4.0.2.tgz#a855980b1f0b6b359ba1d5d9fb39ae941faa63ad"
@@ -29533,6 +29431,14 @@ whatwg-mimetype@^2.2.0, whatwg-mimetype@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/whatwg-mimetype/-/whatwg-mimetype-2.3.0.tgz#3d4b1e0312d2079879f826aff18dbeeca5960fbf"
   integrity sha512-M4yMwr6mAnQz76TbJm914+gPpB/nCwvZbJU28cUD6dR004SAxDLOOSUaB1JDRqLtaOV/vi0IC5lEAGFgrjGv/g==
+
+whatwg-url@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/whatwg-url/-/whatwg-url-5.0.0.tgz#966454e8765462e37644d3626f6742ce8b70965d"
+  integrity sha1-lmRU6HZUYuN2RNNib2dCzotwll0=
+  dependencies:
+    tr46 "~0.0.3"
+    webidl-conversions "^3.0.0"
 
 whatwg-url@^6.5.0:
   version "6.5.0"
