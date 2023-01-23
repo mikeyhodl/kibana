@@ -2718,1612 +2718,1210 @@
   integrity sha512-4JQNk+3mVzK3xh2rqd6RB4J46qUR19azEHBneZyTZM+c456qOrbbM/5xcR8huNCCcbVt7+UmizG6GuUvPvKUYg==
 
 "@kbn/ace@link:packages/kbn-ace":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/aiops-components@link:x-pack/packages/ml/aiops_components":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/aiops-utils@link:x-pack/packages/ml/aiops_utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/alerting-api-integration-helpers@link:x-pack/test/alerting_api_integration/packages/helpers":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/alerts@link:packages/kbn-alerts":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ambient-common-types@link:packages/kbn-ambient-common-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ambient-ftr-types@link:packages/kbn-ambient-ftr-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ambient-storybook-types@link:packages/kbn-ambient-storybook-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ambient-ui-types@link:packages/kbn-ambient-ui-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/analytics-client@link:packages/analytics/client":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/analytics-shippers-elastic-v3-browser@link:packages/analytics/shippers/elastic_v3/browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/analytics-shippers-elastic-v3-common@link:packages/analytics/shippers/elastic_v3/common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/analytics-shippers-elastic-v3-server@link:packages/analytics/shippers/elastic_v3/server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/analytics-shippers-fullstory@link:packages/analytics/shippers/fullstory":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/analytics-shippers-gainsight@link:packages/analytics/shippers/gainsight":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/analytics@link:packages/kbn-analytics":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/apm-config-loader@link:packages/kbn-apm-config-loader":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/apm-synthtrace-client@link:packages/kbn-apm-synthtrace-client":
-  version "0.0.0"
-  uid ""
+  version "0.1.0"
 
 "@kbn/apm-synthtrace@link:packages/kbn-apm-synthtrace":
-  version "0.0.0"
-  uid ""
+  version "0.1.0"
 
 "@kbn/apm-utils@link:packages/kbn-apm-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/axe-config@link:packages/kbn-axe-config":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/babel-plugin-package-imports@link:packages/kbn-babel-plugin-package-imports":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/babel-preset@link:packages/kbn-babel-preset":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/babel-register@link:packages/kbn-babel-register":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/babel-transform@link:packages/kbn-babel-transform":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/bazel-runner@link:packages/kbn-bazel-runner":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/cases-components@link:packages/kbn-cases-components":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/cell-actions@link:packages/kbn-cell-actions":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/chart-expressions-common@link:src/plugins/chart_expressions/common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/chart-icons@link:packages/kbn-chart-icons":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ci-stats-core@link:packages/kbn-ci-stats-core":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ci-stats-performance-metrics@link:packages/kbn-ci-stats-performance-metrics":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ci-stats-reporter@link:packages/kbn-ci-stats-reporter":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/cli-dev-mode@link:packages/kbn-cli-dev-mode":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/coloring@link:packages/kbn-coloring":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/config-mocks@link:packages/kbn-config-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/config-schema@link:packages/kbn-config-schema":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/config@link:packages/kbn-config":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/content-management-content-editor@link:packages/content-management/content_editor":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/content-management-table-list@link:packages/content-management/table_list":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-analytics-browser-internal@link:packages/core/analytics/core-analytics-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-analytics-browser-mocks@link:packages/core/analytics/core-analytics-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-analytics-browser@link:packages/core/analytics/core-analytics-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-analytics-server-internal@link:packages/core/analytics/core-analytics-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-analytics-server-mocks@link:packages/core/analytics/core-analytics-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-analytics-server@link:packages/core/analytics/core-analytics-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-application-browser-internal@link:packages/core/application/core-application-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-application-browser-mocks@link:packages/core/application/core-application-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-application-browser@link:packages/core/application/core-application-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-application-common@link:packages/core/application/core-application-common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-apps-browser-internal@link:packages/core/apps/core-apps-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-apps-browser-mocks@link:packages/core/apps/core-apps-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-apps-server-internal@link:packages/core/apps/core-apps-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-base-browser-internal@link:packages/core/base/core-base-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-base-browser-mocks@link:packages/core/base/core-base-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-base-common-internal@link:packages/core/base/core-base-common-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-base-common@link:packages/core/base/core-base-common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-base-server-internal@link:packages/core/base/core-base-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-base-server-mocks@link:packages/core/base/core-base-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-capabilities-browser-internal@link:packages/core/capabilities/core-capabilities-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-capabilities-browser-mocks@link:packages/core/capabilities/core-capabilities-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-capabilities-common@link:packages/core/capabilities/core-capabilities-common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-capabilities-server-internal@link:packages/core/capabilities/core-capabilities-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-capabilities-server-mocks@link:packages/core/capabilities/core-capabilities-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-capabilities-server@link:packages/core/capabilities/core-capabilities-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-chrome-browser-internal@link:packages/core/chrome/core-chrome-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-chrome-browser-mocks@link:packages/core/chrome/core-chrome-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-chrome-browser@link:packages/core/chrome/core-chrome-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-config-server-internal@link:packages/core/config/core-config-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-custom-branding-browser-internal@link:packages/core/custom-branding/core-custom-branding-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-custom-branding-browser-mocks@link:packages/core/custom-branding/core-custom-branding-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-custom-branding-browser@link:packages/core/custom-branding/core-custom-branding-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-custom-branding-common@link:packages/core/custom-branding/core-custom-branding-common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-custom-branding-server-internal@link:packages/core/custom-branding/core-custom-branding-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-custom-branding-server-mocks@link:packages/core/custom-branding/core-custom-branding-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-custom-branding-server@link:packages/core/custom-branding/core-custom-branding-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-deprecations-browser-internal@link:packages/core/deprecations/core-deprecations-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-deprecations-browser-mocks@link:packages/core/deprecations/core-deprecations-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-deprecations-browser@link:packages/core/deprecations/core-deprecations-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-deprecations-common@link:packages/core/deprecations/core-deprecations-common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-deprecations-server-internal@link:packages/core/deprecations/core-deprecations-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-deprecations-server-mocks@link:packages/core/deprecations/core-deprecations-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-deprecations-server@link:packages/core/deprecations/core-deprecations-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-doc-links-browser-internal@link:packages/core/doc-links/core-doc-links-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-doc-links-browser-mocks@link:packages/core/doc-links/core-doc-links-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-doc-links-browser@link:packages/core/doc-links/core-doc-links-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-doc-links-server-internal@link:packages/core/doc-links/core-doc-links-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-doc-links-server-mocks@link:packages/core/doc-links/core-doc-links-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-doc-links-server@link:packages/core/doc-links/core-doc-links-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-elasticsearch-client-server-internal@link:packages/core/elasticsearch/core-elasticsearch-client-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-elasticsearch-client-server-mocks@link:packages/core/elasticsearch/core-elasticsearch-client-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-elasticsearch-server-internal@link:packages/core/elasticsearch/core-elasticsearch-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-elasticsearch-server-mocks@link:packages/core/elasticsearch/core-elasticsearch-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-elasticsearch-server@link:packages/core/elasticsearch/core-elasticsearch-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-environment-server-internal@link:packages/core/environment/core-environment-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-environment-server-mocks@link:packages/core/environment/core-environment-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-execution-context-browser-internal@link:packages/core/execution-context/core-execution-context-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-execution-context-browser-mocks@link:packages/core/execution-context/core-execution-context-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-execution-context-browser@link:packages/core/execution-context/core-execution-context-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-execution-context-common@link:packages/core/execution-context/core-execution-context-common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-execution-context-server-internal@link:packages/core/execution-context/core-execution-context-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-execution-context-server-mocks@link:packages/core/execution-context/core-execution-context-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-execution-context-server@link:packages/core/execution-context/core-execution-context-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-fatal-errors-browser-internal@link:packages/core/fatal-errors/core-fatal-errors-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-fatal-errors-browser-mocks@link:packages/core/fatal-errors/core-fatal-errors-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-fatal-errors-browser@link:packages/core/fatal-errors/core-fatal-errors-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-browser-internal@link:packages/core/http/core-http-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-browser-mocks@link:packages/core/http/core-http-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-browser@link:packages/core/http/core-http-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-common@link:packages/core/http/core-http-common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-context-server-internal@link:packages/core/http/core-http-context-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-context-server-mocks@link:packages/core/http/core-http-context-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-request-handler-context-server-internal@link:packages/core/http/core-http-request-handler-context-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-request-handler-context-server@link:packages/core/http/core-http-request-handler-context-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-resources-server-internal@link:packages/core/http/core-http-resources-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-resources-server-mocks@link:packages/core/http/core-http-resources-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-resources-server@link:packages/core/http/core-http-resources-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-router-server-internal@link:packages/core/http/core-http-router-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-router-server-mocks@link:packages/core/http/core-http-router-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-server-internal@link:packages/core/http/core-http-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-server-mocks@link:packages/core/http/core-http-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-http-server@link:packages/core/http/core-http-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-i18n-browser-internal@link:packages/core/i18n/core-i18n-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-i18n-browser-mocks@link:packages/core/i18n/core-i18n-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-i18n-browser@link:packages/core/i18n/core-i18n-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-i18n-server-internal@link:packages/core/i18n/core-i18n-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-i18n-server-mocks@link:packages/core/i18n/core-i18n-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-i18n-server@link:packages/core/i18n/core-i18n-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-injected-metadata-browser-internal@link:packages/core/injected-metadata/core-injected-metadata-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-injected-metadata-browser-mocks@link:packages/core/injected-metadata/core-injected-metadata-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-injected-metadata-common-internal@link:packages/core/injected-metadata/core-injected-metadata-common-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-integrations-browser-internal@link:packages/core/integrations/core-integrations-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-integrations-browser-mocks@link:packages/core/integrations/core-integrations-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-lifecycle-browser-internal@link:packages/core/lifecycle/core-lifecycle-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-lifecycle-browser-mocks@link:packages/core/lifecycle/core-lifecycle-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-lifecycle-browser@link:packages/core/lifecycle/core-lifecycle-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-lifecycle-server-internal@link:packages/core/lifecycle/core-lifecycle-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-lifecycle-server-mocks@link:packages/core/lifecycle/core-lifecycle-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-lifecycle-server@link:packages/core/lifecycle/core-lifecycle-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-logging-browser-internal@link:packages/core/logging/core-logging-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-logging-browser-mocks@link:packages/core/logging/core-logging-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-logging-common-internal@link:packages/core/logging/core-logging-common-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-logging-server-internal@link:packages/core/logging/core-logging-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-logging-server-mocks@link:packages/core/logging/core-logging-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-logging-server@link:packages/core/logging/core-logging-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-metrics-collectors-server-internal@link:packages/core/metrics/core-metrics-collectors-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-metrics-collectors-server-mocks@link:packages/core/metrics/core-metrics-collectors-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-metrics-server-internal@link:packages/core/metrics/core-metrics-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-metrics-server-mocks@link:packages/core/metrics/core-metrics-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-metrics-server@link:packages/core/metrics/core-metrics-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-mount-utils-browser-internal@link:packages/core/mount-utils/core-mount-utils-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-mount-utils-browser@link:packages/core/mount-utils/core-mount-utils-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-node-server-internal@link:packages/core/node/core-node-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-node-server-mocks@link:packages/core/node/core-node-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-node-server@link:packages/core/node/core-node-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-notifications-browser-internal@link:packages/core/notifications/core-notifications-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-notifications-browser-mocks@link:packages/core/notifications/core-notifications-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-notifications-browser@link:packages/core/notifications/core-notifications-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-overlays-browser-internal@link:packages/core/overlays/core-overlays-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-overlays-browser-mocks@link:packages/core/overlays/core-overlays-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-overlays-browser@link:packages/core/overlays/core-overlays-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-plugins-base-server-internal@link:packages/core/plugins/core-plugins-base-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-plugins-browser-internal@link:packages/core/plugins/core-plugins-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-plugins-browser-mocks@link:packages/core/plugins/core-plugins-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-plugins-browser@link:packages/core/plugins/core-plugins-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-plugins-server-internal@link:packages/core/plugins/core-plugins-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-plugins-server-mocks@link:packages/core/plugins/core-plugins-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-plugins-server@link:packages/core/plugins/core-plugins-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-preboot-server-internal@link:packages/core/preboot/core-preboot-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-preboot-server-mocks@link:packages/core/preboot/core-preboot-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-preboot-server@link:packages/core/preboot/core-preboot-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-rendering-browser-internal@link:packages/core/rendering/core-rendering-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-rendering-browser-mocks@link:packages/core/rendering/core-rendering-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-rendering-server-internal@link:packages/core/rendering/core-rendering-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-rendering-server-mocks@link:packages/core/rendering/core-rendering-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-root-browser-internal@link:packages/core/root/core-root-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-root-server-internal@link:packages/core/root/core-root-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-api-browser@link:packages/core/saved-objects/core-saved-objects-api-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-api-server-internal@link:packages/core/saved-objects/core-saved-objects-api-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-api-server-mocks@link:packages/core/saved-objects/core-saved-objects-api-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-api-server@link:packages/core/saved-objects/core-saved-objects-api-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-base-server-internal@link:packages/core/saved-objects/core-saved-objects-base-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-base-server-mocks@link:packages/core/saved-objects/core-saved-objects-base-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-browser-internal@link:packages/core/saved-objects/core-saved-objects-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-browser-mocks@link:packages/core/saved-objects/core-saved-objects-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-browser@link:packages/core/saved-objects/core-saved-objects-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-common@link:packages/core/saved-objects/core-saved-objects-common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-import-export-server-internal@link:packages/core/saved-objects/core-saved-objects-import-export-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-import-export-server-mocks@link:packages/core/saved-objects/core-saved-objects-import-export-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-migration-server-internal@link:packages/core/saved-objects/core-saved-objects-migration-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-migration-server-mocks@link:packages/core/saved-objects/core-saved-objects-migration-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-server-internal@link:packages/core/saved-objects/core-saved-objects-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-server-mocks@link:packages/core/saved-objects/core-saved-objects-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-server@link:packages/core/saved-objects/core-saved-objects-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-saved-objects-utils-server@link:packages/core/saved-objects/core-saved-objects-utils-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-status-common-internal@link:packages/core/status/core-status-common-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-status-common@link:packages/core/status/core-status-common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-status-server-internal@link:packages/core/status/core-status-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-status-server-mocks@link:packages/core/status/core-status-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-status-server@link:packages/core/status/core-status-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-test-helpers-deprecations-getters@link:packages/core/test-helpers/core-test-helpers-deprecations-getters":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-test-helpers-http-setup-browser@link:packages/core/test-helpers/core-test-helpers-http-setup-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-test-helpers-kbn-server@link:packages/core/test-helpers/core-test-helpers-kbn-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-test-helpers-so-type-serializer@link:packages/core/test-helpers/core-test-helpers-so-type-serializer":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-test-helpers-test-utils@link:packages/core/test-helpers/core-test-helpers-test-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-theme-browser-internal@link:packages/core/theme/core-theme-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-theme-browser-mocks@link:packages/core/theme/core-theme-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-theme-browser@link:packages/core/theme/core-theme-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-ui-settings-browser-internal@link:packages/core/ui-settings/core-ui-settings-browser-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-ui-settings-browser-mocks@link:packages/core/ui-settings/core-ui-settings-browser-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-ui-settings-browser@link:packages/core/ui-settings/core-ui-settings-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-ui-settings-common@link:packages/core/ui-settings/core-ui-settings-common":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-ui-settings-server-internal@link:packages/core/ui-settings/core-ui-settings-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-ui-settings-server-mocks@link:packages/core/ui-settings/core-ui-settings-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-ui-settings-server@link:packages/core/ui-settings/core-ui-settings-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-usage-data-base-server-internal@link:packages/core/usage-data/core-usage-data-base-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-usage-data-server-internal@link:packages/core/usage-data/core-usage-data-server-internal":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-usage-data-server-mocks@link:packages/core/usage-data/core-usage-data-server-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/core-usage-data-server@link:packages/core/usage-data/core-usage-data-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/crypto-browser@link:packages/kbn-crypto-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/crypto@link:packages/kbn-crypto":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/cypress-config@link:packages/kbn-cypress-config":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/datemath@link:packages/kbn-datemath":
-  version "0.0.0"
-  uid ""
+  version "5.0.4"
 
 "@kbn/dev-cli-errors@link:packages/kbn-dev-cli-errors":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/dev-cli-runner@link:packages/kbn-dev-cli-runner":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/dev-proc-runner@link:packages/kbn-dev-proc-runner":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/dev-utils@link:packages/kbn-dev-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/doc-links@link:packages/kbn-doc-links":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/docs-utils@link:packages/kbn-docs-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ebt-tools@link:packages/kbn-ebt-tools":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ecs@link:packages/kbn-ecs":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/es-archiver@link:packages/kbn-es-archiver":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/es-errors@link:packages/kbn-es-errors":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/es-query@link:packages/kbn-es-query":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/es-types@link:packages/kbn-es-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/es@link:packages/kbn-es":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/eslint-config@link:packages/kbn-eslint-config":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/eslint-plugin-disable@link:packages/kbn-eslint-plugin-disable":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/eslint-plugin-eslint@link:packages/kbn-eslint-plugin-eslint":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/eslint-plugin-imports@link:packages/kbn-eslint-plugin-imports":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/expect@link:packages/kbn-expect":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/failed-test-reporter-cli@link:packages/kbn-failed-test-reporter-cli":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/field-types@link:packages/kbn-field-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/find-used-node-modules@link:packages/kbn-find-used-node-modules":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/flot-charts@link:packages/kbn-flot-charts":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ftr-common-functional-services@link:packages/kbn-ftr-common-functional-services":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ftr-screenshot-filename@link:packages/kbn-ftr-screenshot-filename":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/generate@link:packages/kbn-generate":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/get-repo-files@link:packages/kbn-get-repo-files":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/guided-onboarding@link:packages/kbn-guided-onboarding":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/handlebars@link:packages/kbn-handlebars":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/hapi-mocks@link:packages/kbn-hapi-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/health-gateway-server@link:packages/kbn-health-gateway-server":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/home-sample-data-card@link:packages/home/sample_data_card":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/home-sample-data-tab@link:packages/home/sample_data_tab":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/home-sample-data-types@link:packages/home/sample_data_types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/i18n-react@link:packages/kbn-i18n-react":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/i18n@link:packages/kbn-i18n":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/import-locator@link:packages/kbn-import-locator":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/import-resolver@link:packages/kbn-import-resolver":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/interpreter@link:packages/kbn-interpreter":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/io-ts-utils@link:packages/kbn-io-ts-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/jest-serializers@link:packages/kbn-jest-serializers":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/journeys@link:packages/kbn-journeys":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/json-ast@link:packages/kbn-json-ast":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/kibana-manifest-schema@link:packages/kbn-kibana-manifest-schema":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/language-documentation-popover@link:packages/kbn-language-documentation-popover":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/lint-packages-cli@link:packages/kbn-lint-packages-cli":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/lint-ts-projects-cli@link:packages/kbn-lint-ts-projects-cli":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/logging-mocks@link:packages/kbn-logging-mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/logging@link:packages/kbn-logging":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/managed-vscode-config-cli@link:packages/kbn-managed-vscode-config-cli":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/managed-vscode-config@link:packages/kbn-managed-vscode-config":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/mapbox-gl@link:packages/kbn-mapbox-gl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ml-agg-utils@link:x-pack/packages/ml/agg_utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ml-date-picker@link:x-pack/packages/ml/date_picker":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ml-is-defined@link:x-pack/packages/ml/is_defined":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ml-is-populated-object@link:x-pack/packages/ml/is_populated_object":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ml-local-storage@link:x-pack/packages/ml/local_storage":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ml-nested-property@link:x-pack/packages/ml/nested_property":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ml-query-utils@link:x-pack/packages/ml/query_utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ml-string-hash@link:x-pack/packages/ml/string_hash":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ml-url-state@link:x-pack/packages/ml/url_state":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/monaco@link:packages/kbn-monaco":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/optimizer-webpack-helpers@link:packages/kbn-optimizer-webpack-helpers":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/optimizer@link:packages/kbn-optimizer":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/osquery-io-ts-types@link:packages/kbn-osquery-io-ts-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/peggy-loader@link:packages/kbn-peggy-loader":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/peggy@link:packages/kbn-peggy":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/performance-testing-dataset-extractor@link:packages/kbn-performance-testing-dataset-extractor":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/picomatcher@link:packages/kbn-picomatcher":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/plugin-discovery@link:packages/kbn-plugin-discovery":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/plugin-generator@link:packages/kbn-plugin-generator":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/plugin-helpers@link:packages/kbn-plugin-helpers":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/react-field@link:packages/kbn-react-field":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/repo-file-maps@link:packages/kbn-repo-file-maps":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/repo-info@link:packages/kbn-repo-info":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/repo-linter@link:packages/kbn-repo-linter":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/repo-packages@link:packages/kbn-repo-packages":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/repo-path@link:packages/kbn-repo-path":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/repo-source-classifier-cli@link:packages/kbn-repo-source-classifier-cli":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/repo-source-classifier@link:packages/kbn-repo-source-classifier":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/rison@link:packages/kbn-rison":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/rule-data-utils@link:packages/kbn-rule-data-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/safer-lodash-set@link:packages/kbn-safer-lodash-set":
   version "0.0.0"
-  uid ""
 
 "@kbn/securitysolution-autocomplete@link:packages/kbn-securitysolution-autocomplete":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-es-utils@link:packages/kbn-securitysolution-es-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-exception-list-components@link:packages/kbn-securitysolution-exception-list-components":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-hook-utils@link:packages/kbn-securitysolution-hook-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-io-ts-alerting-types@link:packages/kbn-securitysolution-io-ts-alerting-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-io-ts-list-types@link:packages/kbn-securitysolution-io-ts-list-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-io-ts-types@link:packages/kbn-securitysolution-io-ts-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-io-ts-utils@link:packages/kbn-securitysolution-io-ts-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-list-api@link:packages/kbn-securitysolution-list-api":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-list-constants@link:packages/kbn-securitysolution-list-constants":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-list-hooks@link:packages/kbn-securitysolution-list-hooks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-list-utils@link:packages/kbn-securitysolution-list-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-rules@link:packages/kbn-securitysolution-rules":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-t-grid@link:packages/kbn-securitysolution-t-grid":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/securitysolution-utils@link:packages/kbn-securitysolution-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/server-http-tools@link:packages/kbn-server-http-tools":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/server-route-repository@link:packages/kbn-server-route-repository":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/set-map@link:packages/kbn-set-map":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-svg@link:packages/kbn-shared-svg":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-avatar-solution@link:packages/shared-ux/avatar/solution":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-avatar-user-profile-components@link:packages/shared-ux/avatar/user_profile/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-button-exit-full-screen-mocks@link:packages/shared-ux/button/exit_full_screen/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-button-exit-full-screen-types@link:packages/shared-ux/button/exit_full_screen/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-button-exit-full-screen@link:packages/shared-ux/button/exit_full_screen/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-button-toolbar@link:packages/shared-ux/button_toolbar":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-card-no-data-mocks@link:packages/shared-ux/card/no_data/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-card-no-data-types@link:packages/shared-ux/card/no_data/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-card-no-data@link:packages/shared-ux/card/no_data/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-file-context@link:packages/shared-ux/file/context":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-file-image-mocks@link:packages/shared-ux/file/image/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-file-image@link:packages/shared-ux/file/image/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-file-mocks@link:packages/shared-ux/file/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-file-picker@link:packages/shared-ux/file/file_picker/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-file-types@link:packages/shared-ux/file/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-file-upload@link:packages/shared-ux/file/file_upload/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-file-util@link:packages/shared-ux/file/util":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-link-redirect-app-mocks@link:packages/shared-ux/link/redirect_app/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-link-redirect-app-types@link:packages/shared-ux/link/redirect_app/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-link-redirect-app@link:packages/shared-ux/link/redirect_app/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-markdown-mocks@link:packages/shared-ux/markdown/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-markdown-types@link:packages/shared-ux/markdown/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-markdown@link:packages/shared-ux/markdown/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-analytics-no-data-mocks@link:packages/shared-ux/page/analytics_no_data/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-analytics-no-data-types@link:packages/shared-ux/page/analytics_no_data/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-analytics-no-data@link:packages/shared-ux/page/analytics_no_data/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-kibana-no-data-mocks@link:packages/shared-ux/page/kibana_no_data/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-kibana-no-data-types@link:packages/shared-ux/page/kibana_no_data/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-kibana-no-data@link:packages/shared-ux/page/kibana_no_data/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-kibana-template-mocks@link:packages/shared-ux/page/kibana_template/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-kibana-template-types@link:packages/shared-ux/page/kibana_template/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-kibana-template@link:packages/shared-ux/page/kibana_template/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-no-data-config-mocks@link:packages/shared-ux/page/no_data_config/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-no-data-config-types@link:packages/shared-ux/page/no_data_config/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-no-data-config@link:packages/shared-ux/page/no_data_config/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-no-data-mocks@link:packages/shared-ux/page/no_data/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-no-data-types@link:packages/shared-ux/page/no_data/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-no-data@link:packages/shared-ux/page/no_data/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-page-solution-nav@link:packages/shared-ux/page/solution_nav":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-prompt-no-data-views-mocks@link:packages/shared-ux/prompt/no_data_views/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-prompt-no-data-views-types@link:packages/shared-ux/prompt/no_data_views/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-prompt-no-data-views@link:packages/shared-ux/prompt/no_data_views/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-prompt-not-found@link:packages/shared-ux/prompt/not_found":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-router-mocks@link:packages/shared-ux/router/mocks":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-router-types@link:packages/shared-ux/router/types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-router@link:packages/shared-ux/router/impl":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-storybook-config@link:packages/shared-ux/storybook/config":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-storybook-mock@link:packages/shared-ux/storybook/mock":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/shared-ux-utility@link:packages/kbn-shared-ux-utility":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/slo-schema@link:packages/kbn-slo-schema":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/some-dev-log@link:packages/kbn-some-dev-log":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/sort-package-json@link:packages/kbn-sort-package-json":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/spec-to-console@link:packages/kbn-spec-to-console":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/std@link:packages/kbn-std":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/stdio-dev-helpers@link:packages/kbn-stdio-dev-helpers":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/storybook@link:packages/kbn-storybook":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/telemetry-tools@link:packages/kbn-telemetry-tools":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/test-jest-helpers@link:packages/kbn-test-jest-helpers":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/test-subj-selector@link:packages/kbn-test-subj-selector":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/test@link:packages/kbn-test":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/timelion-grammar@link:packages/kbn-timelion-grammar":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/tinymath@link:packages/kbn-tinymath":
-  version "0.0.0"
-  uid ""
+  version "2.0.0"
 
 "@kbn/tooling-log@link:packages/kbn-tooling-log":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ts-projects@link:packages/kbn-ts-projects":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ts-type-check-cli@link:packages/kbn-ts-type-check-cli":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/typed-react-router-config@link:packages/kbn-typed-react-router-config":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ui-actions-browser@link:packages/kbn-ui-actions-browser":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ui-framework@link:packages/kbn-ui-framework":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ui-shared-deps-npm@link:packages/kbn-ui-shared-deps-npm":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ui-shared-deps-src@link:packages/kbn-ui-shared-deps-src":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/ui-theme@link:packages/kbn-ui-theme":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/user-profile-components@link:packages/kbn-user-profile-components":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/utility-types-jest@link:packages/kbn-utility-types-jest":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/utility-types@link:packages/kbn-utility-types":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/utils@link:packages/kbn-utils":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/web-worker-stub@link:packages/kbn-web-worker-stub":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/whereis-pkg-cli@link:packages/kbn-whereis-pkg-cli":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kbn/yarn-lock-validator@link:packages/kbn-yarn-lock-validator":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "@kwsites/file-exists@^1.1.1":
   version "1.1.1"
@@ -11241,9 +10839,9 @@ cookie@^0.5.0:
   integrity sha512-YZ3GUyn/o8gfKJlnlX7g7xq4gyO6OSuhGPKaaGssGB2qgDUS0gPgtTvoyZLTt9Ab6dC4hfc9dV5arkvc/OCmrw==
 
 cookiejar@^2.1.0:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.1.tgz#41ad57b1b555951ec171412a81942b1e8200d34a"
-  integrity sha1-Qa1XsbVVlR7BcUEqgZQrHoIA00o=
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.4.tgz#ee669c1fea2cf42dc31585469d193fef0d65771b"
+  integrity sha512-LDx6oHrK+PhzLKJU9j5S7/Y3jM/mUHvD/DeI1WQmJn652iPC5Y4TBzC9l+5OMOXlyTTA+SmVUPm0HQUwpD5Jqw==
 
 copy-anything@^3.0.2:
   version "3.0.2"
